@@ -1,0 +1,40 @@
+html {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  line-height: 0.5;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  padding: 20px 20px 20px 20px;
+  width: 250px;
+}
+
+html {
+  background-color: #F2EFE1;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #E5E5CC;
+  padding: 0 20px 20px 20px;
+  border: 1px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #000000;
+}
